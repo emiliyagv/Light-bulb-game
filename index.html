@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="playerpage">
+        <h1> Map Selector </h1>
+        <form id="form">
+            <label>Player name: <input type="text" required /></label>
+            <br><br>
+            <div>
+                <input type="radio" id="table1" name="tables" value="table1">
+                <label for="table1">Basic</label>
+                <input type="radio" id="table2" name="tables" value="table2">
+                <label for="table1">Advanced</label>
+                <input type="radio" id="table3" name="tables" value="table3">
+                <label for="table1">Extended</label>
+            </div>
+
+            <br>
+
+            <button type="submit">Submit</button>
+        </form>
+
+        <div>
+            <button id="continue">Continue</button>
+        </div>
+    </div>
+
+    <div class="secondpage">
+        <div class="header">
+            <h2></h2>
+        </div>
+        <div class="gamepart">
+            <table></table>
+            <div class="buttons">
+                <button id="restart">Restart</button>
+                <button id="save">Save</button>
+                <button id="check">Check</button>
+                <select id="newgamefield">
+                    <option value="newgame" disabled>New Game</option>
+                    <option value="table1">Basic</option>
+                    <option value="table2">Advanced</option>
+                    <option value="table3">Extended</option>
+                </select>
+            </div>
+
+            <div class="answerfield">
+                <h2></h2>
+            </div>
+        </div>
+
+        <div class="timer">
+            <h1 id="timer"></h1>
+        </div>
+
+
+    </div>
+
+</body>
+
+</html>
+<script src="data.js"></script>
+<script src="script.js"></script>

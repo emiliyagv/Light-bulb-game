@@ -1,0 +1,91 @@
+     body {
+         background-image: url('motto.png');
+         font-size: 20px;
+         font-family: "Garamond", serif;
+     }
+
+     .playerpage {
+         background-color: rgba(0, 0, 0, 0.7);
+         margin-top: 15%;
+         margin-left: 25%;
+         margin-right: 25%;
+         text-align: center;
+         color: white;
+     }
+
+     .secondpage {
+         display: none;
+         text-align: center;
+     }
+
+     table {
+         margin: auto;
+         background-color: white;
+     }
+
+     .colorgreen {
+         color: green
+     }
+
+     button {
+         margin: auto;
+         padding: auto;
+         font-size: 15px;
+         background-color: #f1f1f1;
+         color: black;
+         border-radius: 5px;
+     }
+
+     select {
+         margin: auto;
+         padding: auto;
+         font-size: 15px;
+         background-color: #f1f1f1;
+         color: black;
+         border-radius: 5px;
+     }
+
+     button:hover {
+         background-color: black;
+         color: white;
+     }
+
+     h1 {
+         text-align: center;
+     }
+
+     td {
+         width: 50px;
+         height: 50px;
+     }
+
+     .showtable {
+         display: none;
+     }
+
+     table,
+     tr,
+     td {
+         border-collapse: collapse;
+         border: 1px solid black;
+         text-align: center;
+     }
+
+     .color {
+        transition-duration: 1s;
+         background-color: yellow;
+     }
+
+     .blacktiles {
+         background-color: black;
+         color: white;
+     }
+
+     .buttoncol {
+         background-color: red;
+     }
+
+     .button::before {
+         content: "💡";
+
+     }
