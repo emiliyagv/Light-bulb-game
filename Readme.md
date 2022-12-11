@@ -18,4 +18,3 @@ Once upon a time, King Unnamed of Nowhereland was both smiling and crying at the
  * The game is played by one player until he solves the puzzle, so there is no need to manage multiple players at the same time or divide into rounds.
  * 
 
-![alt text](http://url/to/img.png)
