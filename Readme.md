@@ -24,7 +24,7 @@ Once upon a time, King Unnamed of Nowhereland was both smiling and crying at the
  
  # Incorrect Solution
  
-  ![Light-Bulb-incorrect-solution](https://Light-Bulb-incorrect-solution.png)
+  ![Light-Bulb-incorrect-solution]([https://Light-Bulb-incorrect-solution.png](https://github.com/emiliyagv/Light-bulb-game/blob/f9f3098885545e49218b158e6b5f5267e81c3281/Light-Bulb-incorrect-solution.png))
  
  
  
