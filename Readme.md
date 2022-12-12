@@ -16,5 +16,16 @@ Once upon a time, King Unnamed of Nowhereland was both smiling and crying at the
  * Two light bulbs can NEVER illuminate each other!
  * The goal of the game is to place the light bulbs so that all the white tiles are illuminated.
  * The game is played by one player until he solves the puzzle, so there is no need to manage multiple players at the same time or divide into rounds.
- * 
+ 
+ # Correct Solution
+ 
+ ![Light-Bulb-correct-solution](https://Light-Bulb-correct-solution.png)
+ 
+ 
+ # Incorrect Solution
+ 
+  ![Light-Bulb-incorrect-solution](https://Light-Bulb-incorrect-solution.png)
+ 
+ 
+ 
 
