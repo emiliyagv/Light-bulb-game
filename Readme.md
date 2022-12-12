@@ -19,7 +19,7 @@ Once upon a time, King Unnamed of Nowhereland was both smiling and crying at the
  
  # Correct Solution
  
- ![Light-Bulb-correct-solution](https://Light-Bulb-correct-solution.png)
+ ![Light-Bulb-correct-solution](Light-Bulb-correct-solution.png)
  
  
  # Incorrect Solution
